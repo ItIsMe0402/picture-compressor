@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Jackal 3000</string>
+    <string name="pick_image">Pick Image</string>
+    <string name="text_continue">Continue</string>
+    <string name="format_compression_quality">Compression Quality: %d%%</string>
+    <string name="format_compressed_preview">Compressed Preview</string>
+    <string name="format_compressed_image">Compressed Image (%s)</string>
+    <string name="format_original_image">Original Image (%1s)</string>
+</resources>

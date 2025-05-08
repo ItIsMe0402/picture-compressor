@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Шакал 3000</string>
+    <string name="pick_image">Обрати фото</string>
+    <string name="text_continue">Далі</string>
+    <string name="format_compression_quality">Якість стиснення: %d%%</string>
+    <string name="format_compressed_preview">Попередній перегляд</string>
+    <string name="format_compressed_image">Стиснене зображення (%s)</string>
+    <string name="format_original_image">Оригінальне зображення (%1s)</string>
+</resources>
